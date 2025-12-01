@@ -1,7 +1,20 @@
+let vetor=[];
+console.log(vetor)
+
 function adicionar(){
-
-}
-
-function imprimir(){
+     let valor= getCampo();
+     console.log(valor)
+   
     
 }
+
+function getCampo(){
+   return document.getElementById("campo").value;
+
+}
+
+function
+
+
+
+    
